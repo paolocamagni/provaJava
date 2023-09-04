@@ -10,7 +10,7 @@ public class Mucca
     private int eta;
     private int produzione;
     private String nome;
-
+    private String razza;
     /**
      * Costruttore della Mucca
      */
