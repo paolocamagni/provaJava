@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mucca
+comment0.text=\r\n\ La\ mucca\ e'\ un\ simpatico\ animale\ che\ produce\ il\ latte\r\n\ \r\n\ @author\ Paolo\ \r\n\ @version\ 2.1\ del\ 11/10/2023\r\n
+comment1.params=
+comment1.target=Mucca()
+comment1.text=\r\n\ Costruttore\ della\ Mucca\r\n
+comment2.params=nome
+comment2.target=Mucca(java.lang.String)
+comment3.params=litri_latte
+comment3.target=int\ mungi(int)
+comment3.text=\r\n\ metodo\ per\ effettare\ la\ mungitura\r\n\ \r\n\ @param\ \ litri_latte\ \:\ litri\ di\ latte\ richiesti\r\n\ @return\ produzione\ \ \:\ litri\ di\ latte\ effettivamente\ munti\r\n
+comment4.params=kg_fieno
+comment4.target=boolean\ mangia(int)
+comment4.text=\r\n\ metodo\ per\ alimentare\ la\ mucca\r\n\ \r\n\ @param\ \ kg_fieno\ \:\ quantita'\ di\ fieno\ dato\ in\ pasto\r\n\ @return\ ok\ \ \ \ \ \ \ \:\ conferma\ \r\n
+numComments=5
